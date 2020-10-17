@@ -50,6 +50,7 @@ $ cd latihan1``
 * Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah **cd** ``(change directory)``
 * direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
 
+![Untitled](https://user-images.githubusercontent.com/72970659/96339315-27a6b700-10be-11eb-9dc0-65fb6860c4ef.png)
 
 ### Membuat Reposiory Local
 
